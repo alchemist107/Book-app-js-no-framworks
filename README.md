@@ -3,4 +3,4 @@ A book app built using vanila js , ES6 Classes , bootStrap , localStorage ,   an
 
 # Link!
 
-  - https://alchemist107.github.io/Book-app-js-no-framworks/
+  - https://alchemist107.github.io/Book-app-js-no-framework/
